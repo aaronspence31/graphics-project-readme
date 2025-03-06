@@ -8,8 +8,8 @@ objects, and realistic physics-based shading.
 
 ## Please reach out to me directly if you'd like to see the code.
 
-I completed this project as part of a course so for academic integrity reasons, I don't want to make it publicly
-available, but upon request I am happy to explore the code with anyone if they want to see it.
+I completed this project as part of a course so for academic integrity reasons, I don't want to share it or make it 
+publicly available, but upon request I am happy to explore the code with anyone if they are interested.
 
 ## How to Run
 
